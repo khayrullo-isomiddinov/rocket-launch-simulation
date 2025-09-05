@@ -23,8 +23,8 @@ This demonstrates Ada’s strengths in **safety-critical, concurrent, and real-t
 - Failure generator for random fault simulation  
 - Clear console telemetry (fuel/oxidizer percentage, engine start/shutdown events)  
 
-I made this project to practice my skills in ADA's concurrency concepts. Let me know if you're looking to learn ADA on harryshady131@gmail.com
----
+**I made this project to practice my skills in ADA's concurrency concepts. Let me know if you're looking to learn ADA on harryshady131@gmail.com**
+
 
 
 ---
