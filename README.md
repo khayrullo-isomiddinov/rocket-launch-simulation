@@ -42,19 +42,24 @@ gprbuild -p -P project.gpr
 
 ## Sample output:
 
----
-
+```text
+[Startup Phase]
 Super Heavy engine 1 is starting
 Super Heavy engine 2 is starting
 ...
 Starship engine 1 is starting
-Super Heavy Booster: Fuel percentage:  97.85
-Super Heavy Booster: Oxidizer percentage:  96.32
-Starship: Fuel percentage:  99.42
-Starship: Oxidizer percentage:  98.77
+
+[Telemetry]
+Super Heavy Booster: Fuel percentage: 97.85
+Super Heavy Booster: Oxidizer percentage: 96.32
+Starship: Fuel percentage: 99.42
+Starship: Oxidizer percentage: 98.77
 ...
+
+[Shutdown Phase]
 Super Heavy engine 2 is shutting off
 Starship engine 1 is shutting off
+
 
 **NASA** — if you're seeing this, email me: **harryshady131@gmail.com**
 
